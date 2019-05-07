@@ -1,0 +1,9 @@
+org\taskManager\services\TaskServiceImpl.class
+org\taskManager\entities\ParentTask.class
+org\taskManager\utility\TaskManagerException.class
+org\taskManager\entities\Task.class
+org\taskManager\services\TaskService.class
+org\taskManager\controller\TaskController.class
+org\taskManager\dao\ParentTaskDao.class
+org\taskManager\dao\TaskDao.class
+org\taskManager\TaskManagerApp.class
